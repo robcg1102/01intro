@@ -10,6 +10,6 @@ Prácticas del Caso Abogadot:
 
 - [Crea tu primer Wireframe UX](https://github.com/robcg1102/01intro/tree/master/04.%20Wireframe)
 
-- [Ahora el UI](https://github.com/robcg1102/01intro/tree/master/04.%20Wireframe)
+- [Ahora el UI](https://github.com/robcg1102/01intro/tree/master/05.%20UI)
 
 ### Roberto Carro gastélum
